@@ -60,7 +60,7 @@
 
 
 ## 💾 DB 구조
-<img width="700" alt="image" src="https://github.com/CanSingTone/.github/assets/110683103/6923f37c-fee8-4da2-bfc4-730ce965c650">
+<img width="800" alt="image" src="https://github.com/CanSingTone/.github/assets/110683103/6923f37c-fee8-4da2-bfc4-730ce965c650">
 
 <br>
 
