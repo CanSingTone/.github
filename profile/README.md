@@ -56,7 +56,9 @@
 <br>
 
 ## 👷 시스템 아키텍처
+<div align="center">
 <img width="500" alt="image" src="https://github.com/devJS00/cansingtone-be/assets/110683103/3df93c9c-517d-4cb7-9ea1-4399dee4efa3">
+</div>
 
 ## 💾 DB 구조
 <div align="center">
