@@ -58,9 +58,10 @@
 ## 👷 시스템 아키텍처
 <img width="500" alt="image" src="https://github.com/devJS00/cansingtone-be/assets/110683103/3df93c9c-517d-4cb7-9ea1-4399dee4efa3">
 
-
 ## 💾 DB 구조
-<img width="800" alt="image" src="https://github.com/CanSingTone/.github/assets/110683103/6923f37c-fee8-4da2-bfc4-730ce965c650">
+<div align="center">
+<img width="800" alt="image" src="https://github.com/CanSingTone/.github/assets/110683103/f077be1c-e2cd-4c11-ab34-cfc9e0026f07">
+</div>
 
 <br>
 
